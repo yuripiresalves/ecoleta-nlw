@@ -46,10 +46,19 @@ form fieldset {
 
 form fieldset legend {
     margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
 }
 
 form fieldset legend h2 {
     font-size: 24px;
+}
+
+form fieldset legend span {
+    color: var(--title-color);
+    font-size: 14px;
 }
 
 form .field {
@@ -92,6 +101,7 @@ form .field-group .field + .field {
 form button {
     width: 260px;
     height: 56px;
+    margin-left: 340px;
     background-color: var(--primary-color);
     border: 0;
     border-radius: 8px;
