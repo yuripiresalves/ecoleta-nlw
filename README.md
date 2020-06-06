@@ -4,7 +4,7 @@
   <img src="public/assets/logo.svg" alt="ECOLETA" width="320">
 <br>
 <br>
-Welcome to ♻ ECOLETA
+<!-- Welcome to ♻ ECOLETA -->
 </h1>
 
 <p align="center">Ecoleta is a site created during the Next Level Week by Rocketseat. </p>
@@ -23,18 +23,18 @@ Welcome to ♻ ECOLETA
 
 <hr />
 
-## Features
+## ♻ Features
 [//]: # (Add the features of your project here:)
 
 -  **HTML**
 -  **CSS** 
 -  **JavaScript** 
 
-## Getting started
+## 🚀 Getting started
 
 `npm install`
 
 
-## License
+## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
