@@ -7,7 +7,7 @@
 <!-- Welcome to ♻ ECOLETA -->
 </h1>
 
-<p align="center">Ecoleta is a site created during the Next Level Week by Rocketseat. </p>
+<p align="center">Ecoleta is a site built during the Next Level Week by Rocketseat. </p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -17,8 +17,8 @@
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="https://i.ibb.co/Ns5nWny/web.gif" alt="web-demo" height="425">
-  <img src="https://i.ibb.co/KFp5xvY/mobile.gif" alt="mobile-demo" height="425">
+  <img src="https://i.ibb.co/Ns5nWny/web.gif" alt="web-demo" height="400">
+  <img src="https://i.ibb.co/KFp5xvY/mobile.gif" alt="mobile-demo" height="400">
 </div>
 
 <hr />
