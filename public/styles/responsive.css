@@ -1,6 +1,7 @@
 @media (max-width: 900px) {
     #page-home {
         background-position-x: 70vw;
+        margin: 0 auto;
     }
 
     #page-home .content {
@@ -8,16 +9,10 @@
         text-align: center;
     }
 
-    #page-home header a {
-        position: absolute;
-        bottom: 48px;
-        left: 50%;
-        transform: translateX(-50%);
-    }
-
     #page-home main {
         align-items: center;
     }
+  
 
     #page-search-results .cards {
         grid-template-columns: 1fr;
@@ -25,18 +20,6 @@
 
     #page-search-results .cards img {
         height: 250px;
-    }
-
-    #page-create-point header img {
-        width: 150px;
-    }
-
-    #page-create-point header a {
-        font-size: 12px;
-    }
-
-    #page-create-point header a span {
-        margin-right: 8px;
     }
 
     #page-create-point form {
@@ -76,17 +59,91 @@
     }
 }
 
+@media (max-width: 430px) {
+    #page-home {
+        background-position-x: 40%;
+        background-position-y: 25%;
+        background-size: 200px;
+    }
+
+    #page-home header img {
+        margin: 0 auto;
+    }
+
+    #page-home header a {
+        position: absolute;
+        bottom: 30px;
+        left: 20%;
+    }
+
+    #page-home main h1 {
+        font-size: 30px;
+    }
+
+    #page-home main p {
+        font-size: 16px;
+        line-height: 20px;
+        margin-top: 24px;
+    }
+
+    #page-home #modal-contet {
+        padding: 0 16px;
+    }
+
+
+    #page-create-point header img {
+        width: 150px;
+    }
+
+    #page-create-point header a {
+        font-size: 12px;
+    }
+
+    #page-create-point header a span {
+        margin-right: 8px;
+    }
+
+    #page-search-results header img {
+        width: 150px;
+    }
+
+    #page-search-results header a {
+        font-size: 12px;
+    }
+
+    #page-search-results header a span {
+        margin-right: 8px;
+    }
+}
+
 @media (min-width: 1700px) {
     #page-home {
         background-position-x: 40vw;
     }
 }
 
-@media (max-height: 760px) {
+/* @media (min-width: 600px) {
+    #page-home main h1 {
+        font-size: 33px;
+    }
+
+    #page-home main p {
+        font-size: 16px;
+        line-height: 20px;
+        margin-top: 24px;
+    }
+
+} */
+
+
+
+/* @media (max-height: 760px) {
     #page-home {
         background-position-y: 200px;
-    }
+    } */
     
-}
 
-/* page-home max-width 440px */
+
+/* page-home (max-width 440px) {
+    text-align: ;
+} */
