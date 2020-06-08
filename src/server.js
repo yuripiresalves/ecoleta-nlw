@@ -107,4 +107,4 @@ server.get("/search", (req, res) => {
 })
 
 // ligar o servidor
-server.listen()
+server.listen(3000)
