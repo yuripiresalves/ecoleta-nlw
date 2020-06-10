@@ -10,6 +10,10 @@
 <p align="center">Ecoleta is a site built during the Next Level Week by Rocketseat. </p>
 
 <p align="center">
+  <a href="https://linkedin.com/in/yuripiresalves">
+    <img src="https://img.shields.io/badge/made%20by-Yuri%20Alves-brightgreen" alt="Made by Yuri Alves">
+  </a>
+  
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="License MIT">
   </a>
