@@ -21,8 +21,8 @@
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="https://i.ibb.co/Ns5nWny/web.gif" alt="web-demo" height="400">
-  <img src="https://i.ibb.co/KFp5xvY/mobile.gif" alt="mobile-demo" height="400">
+  <img src="https://i.ibb.co/Ns5nWny/web.gif" alt="web-demo" height="390">
+  <img src="https://i.ibb.co/KFp5xvY/mobile.gif" alt="mobile-demo" height="390">
 </div>
 
 <hr />
